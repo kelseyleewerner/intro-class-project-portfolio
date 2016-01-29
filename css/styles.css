@@ -1,3 +1,16 @@
 body {
-  background-color: #6a7b98;
+  background-color: #353b45;
+  color: #0f1d36;
+}
+
+.gray-box-base {
+  margin:auto;
+  border: 5px double #0f1d36;
+  padding: 20px;
+  background-color: #677285;
+}
+
+.gray-box-header {
+  margin-top: 2.5%;
+  text-align: center;
 }
