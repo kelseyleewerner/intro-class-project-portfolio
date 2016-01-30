@@ -15,14 +15,33 @@ a {
 }
 
 .gray-box-base {
-  margin:auto;
   border: 5px double #0f1d36;
-  padding: 20px;
   background-color: #677285;
 }
 
 .gray-box-header {
   text-align: center;
+  padding: 20px;
+}
+
+.gray-box-1 {
+  padding: 20px;
+}
+
+.gray-box-2 {
+  padding: 20px;
+}
+
+.gray-box-3 {
+  padding: 20px;
+}
+
+.gray-box-4 {
+  padding: 20px;
+}
+
+.gray-box-5 {
+  padding: 20px;
 }
 
 .image-row {
