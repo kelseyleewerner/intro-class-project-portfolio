@@ -4,6 +4,7 @@ body {
   margin-top: 2.5%;
   margin-left: 2.5%;
   margin-right: 2.5%;
+  margin-bottom: 2.5%;
 }
 
 a {
@@ -25,6 +26,14 @@ a {
 }
 
 .gray-box-1 {
+  text-align: center;
+  padding-top: 136px;
+  padding-bottom: 137px;
+}
+
+.frame {
+  background-color: darkorange;
+  border: 5px double #0f1d36;
   padding: 20px;
 }
 
@@ -34,14 +43,12 @@ a {
 
 .gray-box-3 {
   padding: 20px;
+  padding-bottom: 140px;
 }
 
 .gray-box-4 {
   padding: 20px;
-}
-
-.gray-box-5 {
-  padding: 20px;
+  padding-bottom: 50px;
 }
 
 .image-row {
