@@ -8,11 +8,12 @@ body {
 }
 
 a {
-  color: red;
+  color: #2b3f63;
+  text-decoration: underline;
 }
 
 .emphasis {
-  color: darkorange;
+  color: #124aa7;
 }
 
 .gray-box-base {
@@ -32,7 +33,7 @@ a {
 }
 
 .frame {
-  background-color: darkorange;
+  background-color: #2b3f63;
   border: 5px double #0f1d36;
   padding: 20px;
 }
