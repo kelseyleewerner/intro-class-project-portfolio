@@ -6,6 +6,10 @@ body {
   margin-right: 2.5%;
 }
 
+a {
+  color: red;
+}
+
 .gray-box-base {
   margin:auto;
   border: 5px double #0f1d36;
