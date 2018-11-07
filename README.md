@@ -1,4 +1,4 @@
-# Kelsey Werner's Portfolio
+# Kelsey Werner's Intro to Programming Portfolio
 #### HTML and CSS Basics Code Review - 1/29/2016
 ### By Kelsey Werner
 
@@ -6,7 +6,7 @@
 ##### [Click here!](http://kelseyleewerner.github.io/)
 
 ## Description
-This is the landing page for my coding portfolio.  This website is an exercise in HTML, CSS, GitHub, Atom, the command line, and applying Bootstrap classes.
+This is the landing page for my intro to coding portfolio.  This website is an exercise in HTML, CSS, GitHub, Atom, the command line, and applying Bootstrap classes.
 
 ## Setup Instructions
 1. Clone this repository
